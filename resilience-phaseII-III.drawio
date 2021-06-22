@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T14:27:56.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="ehdzscdzjJNabh5FPbAp" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T15:10:24.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="gXERZ7W3gVTrkxzz7nZe" version="14.8.0" type="github">
   <diagram id="f8p_RLvVnmRlpYBPBMnu" name="Page-1">
     <mxGraphModel dx="768" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,21 +25,6 @@
               <mxPoint x="645" y="680" />
               <mxPoint x="173" y="680" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mRYJI_ucZMOmYyPQ1O4j-40" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mRYJI_ucZMOmYyPQ1O4j-39">
-          <mxGeometry x="-0.276" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mRYJI_ucZMOmYyPQ1O4j-41" value="Trigger Automatic Self Healing Procedures" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mRYJI_ucZMOmYyPQ1O4j-39">
-          <mxGeometry x="-0.1433" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mRYJI_ucZMOmYyPQ1O4j-43" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mRYJI_ucZMOmYyPQ1O4j-39">
-          <mxGeometry x="-0.2584" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mRYJI_ucZMOmYyPQ1O4j-1" value="Phase III" style="rounded=1;arcSize=10;dashed=1;fillColor=#d5e8d4;strokeWidth=2;verticalAlign=top;fontSize=10;opacity=50;strokeColor=#82b366;" vertex="1" parent="1">
@@ -146,6 +131,9 @@
             <mxPoint x="430" y="440" as="sourcePoint" />
             <mxPoint x="480" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mRYJI_ucZMOmYyPQ1O4j-46" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=10;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="177.63" width="580" height="512.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
