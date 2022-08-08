@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T18:40:17.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="n27twL4CiYHc_nIHIBQC" version="20.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-08T20:04:15.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QHGh_Tl87hGENPgh4oOF" version="20.2.2" type="github" pages="4">
   <diagram id="PmMvE4mcCsN0m0__do7f" name="Page-1">
     <mxGraphModel dx="1888" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -635,7 +635,7 @@
         <mxCell id="k0NszFStjjQQoDRN0ktl-24" value="(y) sincere&lt;br&gt;(y) sincere" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="617" y="350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k0NszFStjjQQoDRN0ktl-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="k0NszFStjjQQoDRN0ktl-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="240" as="sourcePoint" />
             <mxPoint x="380" y="290" as="targetPoint" />
@@ -646,6 +646,17 @@
         </mxCell>
         <mxCell id="k0NszFStjjQQoDRN0ktl-27" value="Average of weights" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="241" y="240" width="122" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gSAVBvg5DMTjLFBFyBng" name="Page-4">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ACex9d22UkJbstS-gJBu-2" value="What is NLP&lt;br&gt;Is Arsenal the best" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="110" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
