@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T20:19:47.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nwK0rDnxd81IU41Ric-a" version="20.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-08T20:20:06.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FMV5wKQlueo5mKs_RteW" version="20.2.2" type="github" pages="4">
   <diagram id="PmMvE4mcCsN0m0__do7f" name="Page-1">
     <mxGraphModel dx="1888" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -655,11 +655,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ACex9d22UkJbstS-gJBu-5" value="&lt;h3&gt;Embedding Layer&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="ACex9d22UkJbstS-gJBu-5" value="&lt;h3&gt;Sentence Embedding Layer&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;dashed=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="270" y="115" width="420" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ACex9d22UkJbstS-gJBu-2" value="&lt;b&gt;Input Questions&lt;br&gt;&lt;/b&gt;&lt;br&gt;What is NLP&lt;br&gt;&lt;br&gt;Is Arsenal the best&lt;br&gt;......................." style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="145" width="110" height="130" as="geometry" />
+          <mxGeometry x="100" y="158" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="0pYSDmvUF0fdf4JjzGpK-6" value="&lt;h3&gt;Keras Model&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;dashed=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="120" y="380" width="660" height="230" as="geometry" />
