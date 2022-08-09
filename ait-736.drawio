@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T07:55:36.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="JfaY8MftPQowpMGe3iEL" version="20.2.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-08-09T07:56:12.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="vV1xv3GHkGQql61CdAe4" version="20.2.2" type="github" pages="5">
   <diagram id="PmMvE4mcCsN0m0__do7f" name="Page-1">
     <mxGraphModel dx="1888" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -765,7 +765,7 @@
         <mxCell id="5QY5vK76Yk1FfbVgbvJd-8" value="Feed Forward Network" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;strokeColor=#99004D;" vertex="1" parent="1">
           <mxGeometry x="390" y="125" width="139" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="5QY5vK76Yk1FfbVgbvJd-9" value="Transformer Encoder&lt;br&gt;&lt;br&gt;formed of six layers" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;strokeColor=#99004D;" vertex="1" parent="1">
+        <mxCell id="5QY5vK76Yk1FfbVgbvJd-9" value="Transformer Encoder&lt;br&gt;&lt;br&gt;formed of six layers" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#FF9933;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="125" width="139" height="75" as="geometry" />
         </mxCell>
         <mxCell id="5QY5vK76Yk1FfbVgbvJd-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
